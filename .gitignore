@@ -1,0 +1,15 @@
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Ambienti virtuali
+venv/
+.env/
+
+# Editor e IDE
+.vscode/
+.idea/
+
+# Database locali temporanei o file CSV esportati
+*.db
+*.sqlite3
