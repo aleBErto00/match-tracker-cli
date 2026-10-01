@@ -10,6 +10,8 @@ venv/
 .vscode/
 .idea/
 
-# Database locali temporanei o file CSV esportati
+
+# Database / Dati personali locali
+partite.json
 *.db
 *.sqlite3
